@@ -4,6 +4,7 @@
 int
 main(void)
 {
+  
   float Numeral;
   char Operation[4];
   float Result;
